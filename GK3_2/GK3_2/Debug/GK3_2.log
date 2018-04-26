@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GK3_2.cpp
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(472): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk3_2\gk3_2\gk3_2.cpp(530): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GK3_2.vcxproj -> C:\Users\kamil\OneDrive\Desktop\Grafika\GK3_2\Debug\GK3_2.exe

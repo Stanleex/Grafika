@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  GK2_1.cpp
+c:\users\kamil\onedrive\desktop\grafika\gk2_1\gk2_1\gk2_1.cpp(36): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk2_1\gk2_1\gk2_1.cpp(42): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\onedrive\desktop\grafika\gk2_1\gk2_1\gk2_1.cpp(43): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK2_1.vcxproj -> C:\Users\kamil\OneDrive\Desktop\Grafika\GK2_1\Debug\GK2_1.exe

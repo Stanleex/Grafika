@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GK4.2.cpp
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(106): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(116): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(207): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(212): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(273): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\onedrive\desktop\grafika\gk6_1\gk4.2\gk4.2.cpp(275): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK4.2.vcxproj -> C:\Users\kamil\OneDrive\Desktop\Grafika\GK6_1\Debug\GK4.2.exe
